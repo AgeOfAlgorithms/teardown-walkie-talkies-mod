@@ -1,0 +1,2 @@
+#Tools
+prefab/pickup.xml : Tools/Walkie-talkie

@@ -1,0 +1,8 @@
+<prefab version="1.6.0">
+	<group name="instance=MOD/prefab/pickup.xml" pos="0.0 0.0 0.0" rot="0.0 0.0 0.0">
+		<body tags="walkie" pos="0.0 0.15 0.0" rot="0.0 0.0 0.0" dynamic="true">
+			<vox pos="0.0 0.0 0.0" rot="0.0 0.0 0.0" file="MOD/vox/walkie.vox" scale="0.5"/>
+			<voxbox tags="invisible" pos="-0.1 -0.15 -0.1" size="2 3 2" material="plastic" color="0.1 0.1 0.1"/>
+		</body>
+	</group>
+</prefab>
