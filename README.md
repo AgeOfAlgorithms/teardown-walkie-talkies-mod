@@ -38,6 +38,10 @@ Other keys (host, server script):
 - `walkie.start` = 0 (set it in your init): nobody gets one at the start, only from the ones lying around.
 - A map places them with any body tagged **walkie** (add **remain** to keep it there when taken).
 
+## Community
+
+Join the [Discord community](https://discord.gg/gNpRewdkxf) to post bug reports and suggestions.
+
 ## Install
 
 Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3833289690), or clone this repository into
