@@ -1,5 +1,6 @@
 name = Walkie-Talkies
 author = AgeOfAlgorithms and Claude
-description = Everyone has a walkie-talkie in the item wheel, on any map: everyone carrying one hears what you say into yours, wherever they are. Hold it and talk; RMB switches it off and on. Lost one? Pick one up (E): maps place them by tagging a body walkie, or place them from the spawn menu (Tools > Walkie-talkie). Game modes can put teams on their own channels. The talking needs the Proximity Comms mod; without it the walkie-talkie is just a prop. Works under water with Underwater Exploration.
+description = Everyone has a walkie-talkie in the item wheel, on any map: everyone carrying one hears what you say into yours, wherever they are. Hold it and talk; RMB switches it off and on. Lost one? Pick one up (E): maps place them by tagging a body walkie, or place them from the spawn menu (Tools > Walkie-talkie). Game modes can put teams on their own channels. The talking needs the Proximity Comms mod; without it the walkie-talkie is just a prop. Works under water with Underwater Exploration. With the McPuppet Inventory System it is an inventory item: in the store, on your hotkeys, and yours from the start unless the host's option says no.
 tags = Gameplay
 version = 2
+preview = preview_td.jpg
